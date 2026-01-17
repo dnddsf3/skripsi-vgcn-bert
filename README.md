@@ -19,7 +19,7 @@ The classification task is based on the Big Five Personality Traits (OCEAN): Ope
 
 - Dataset: Essays-Big5
 
-- Source: Publicly available personality essay dataset
+- Source: [Publicly available personality essay dataset](https://huggingface.co/datasets/jingjietan/essays-big5)
 
 - Size: 2,467 English essays
 
